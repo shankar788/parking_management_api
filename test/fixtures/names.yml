@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  add: MyString
+  number: MyString
+  demo: MyString
+  user: one
+  floor: one
+
+two:
+  add: MyString
+  number: MyString
+  demo: MyString
+  user: two
+  floor: two

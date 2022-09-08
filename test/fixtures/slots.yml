@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: MyString
+  car_number: 1
+  car_color: MyString
+  in_time: MyString
+  out_time: MyString
+  price: 9.99
+  floor: one
+
+two:
+  number: MyString
+  car_number: 1
+  car_color: MyString
+  in_time: MyString
+  out_time: MyString
+  price: 9.99
+  floor: two
